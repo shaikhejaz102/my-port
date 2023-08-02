@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/my-port/static/css/main.357031a6.css",
+    "main.js": "/my-port/static/js/main.a2a7e1f5.js",
+    "static/js/787.68dbee1e.chunk.js": "/my-port/static/js/787.68dbee1e.chunk.js",
+    "static/media/calculator.png": "/my-port/static/media/calculator.9d3a19cfe0b999e0debd.png",
+    "static/media/computer.jpg": "/my-port/static/media/computer.284efe96b1ee930ca6fa.jpg",
+    "static/media/screen shot.jpg": "/my-port/static/media/screen shot.f3ecf90b8c8647432be9.jpg",
+    "static/media/ecommerce-business.jpg": "/my-port/static/media/ecommerce-business.af55bedd20477b695db0.jpg",
+    "static/media/javascript-image.jpg": "/my-port/static/media/javascript-image.ef01a7026932d825265e.jpg",
+    "static/media/cal.jpg": "/my-port/static/media/cal.c5330e82f830da116eea.jpg",
+    "static/media/pngwing.com.png": "/my-port/static/media/pngwing.com.4313b7a69ffe862b01e0.png",
+    "static/media/Ejaz.jpeg": "/my-port/static/media/Ejaz.c84d4b277fcf37f7aafc.jpeg",
+    "static/media/com.webp": "/my-port/static/media/com.142729a24d8cfdf38669.webp",
+    "static/media/shaikh.jpg": "/my-port/static/media/shaikh.21e84829a8df0ae5aebf.jpg",
+    "static/media/to-do-list.jpeg": "/my-port/static/media/to-do-list.22bd8f9e1208339345a4.jpeg",
+    "static/media/logo.png": "/my-port/static/media/logo.bb24a0c6551332d72206.png",
+    "static/media/Analog.png": "/my-port/static/media/Analog.db875b1cad85f252fabb.png",
+    "static/media/nextjs-image.jpeg": "/my-port/static/media/nextjs-image.24cd9f4c0489e765b6e1.jpeg",
+    "static/media/background-home.webp": "/my-port/static/media/background-home.c4179d8ce6d6d5a3de83.webp",
+    "static/media/html-image.webp": "/my-port/static/media/html-image.85951f193a1cf0598797.webp",
+    "static/media/contact.avif": "/my-port/static/media/contact.a5bf5217eef58f1254b9.avif",
+    "static/media/myphoto.jpg": "/my-port/static/media/myphoto.b4818695d11ac392271b.jpg",
+    "static/media/introduction-CSS-cover.webp": "/my-port/static/media/introduction-CSS-cover.2ab0fd979823539ecfec.webp",
+    "index.html": "/my-port/index.html",
+    "main.357031a6.css.map": "/my-port/static/css/main.357031a6.css.map",
+    "main.a2a7e1f5.js.map": "/my-port/static/js/main.a2a7e1f5.js.map",
+    "787.68dbee1e.chunk.js.map": "/my-port/static/js/787.68dbee1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.357031a6.css",
+    "static/js/main.a2a7e1f5.js"
+  ]
+}
