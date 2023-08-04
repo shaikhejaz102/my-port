@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-port/static/css/main.efd800e4.css",
+    "main.css": "/my-port/static/css/main.e66e1c28.css",
     "main.js": "/my-port/static/js/main.28d3edab.js",
     "static/js/787.68dbee1e.chunk.js": "/my-port/static/js/787.68dbee1e.chunk.js",
     "static/media/calculator.png": "/my-port/static/media/calculator.9d3a19cfe0b999e0debd.png",
@@ -23,12 +23,12 @@
     "static/media/Ejaz.jpeg": "/my-port/static/media/Ejaz.632242a721f2c531c863.jpeg",
     "static/media/introduction-CSS-cover.webp": "/my-port/static/media/introduction-CSS-cover.2ab0fd979823539ecfec.webp",
     "index.html": "/my-port/index.html",
-    "main.efd800e4.css.map": "/my-port/static/css/main.efd800e4.css.map",
+    "main.e66e1c28.css.map": "/my-port/static/css/main.e66e1c28.css.map",
     "main.28d3edab.js.map": "/my-port/static/js/main.28d3edab.js.map",
     "787.68dbee1e.chunk.js.map": "/my-port/static/js/787.68dbee1e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.efd800e4.css",
+    "static/css/main.e66e1c28.css",
     "static/js/main.28d3edab.js"
   ]
 }
