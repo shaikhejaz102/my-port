@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.css": "/my-port/static/css/main.b4f08088.css",
-    "main.js": "/my-port/static/js/main.8b325321.js",
+    "main.css": "/my-port/static/css/main.92a4da1f.css",
+    "main.js": "/my-port/static/js/main.dd900a32.js",
     "static/js/787.68dbee1e.chunk.js": "/my-port/static/js/787.68dbee1e.chunk.js",
     "static/media/videoGlobe.mp4": "/my-port/static/media/videoGlobe.a2703484bb9eee7d0c2e.mp4",
-    "static/media/pexels-google2.mp4": "/my-port/static/media/pexels-google2.f65c7a8a0addb0fcdf16.mp4",
     "static/media/Spire.mp4": "/my-port/static/media/Spire.f946586b89a93720ed25.mp4",
     "static/media/combined (10).png": "/my-port/static/media/combined (10).3cff427d6ee74e0ab55c.png",
     "static/media/Maersk_.jpg": "/my-port/static/media/Maersk_.c04fd8311c1a1016c0ba.jpg",
@@ -106,12 +105,12 @@
     "static/media/section-20.png": "/my-port/static/media/section-20.c4ba54a845433b0b10b5.png",
     "static/media/section-11.png": "/my-port/static/media/section-11.d8d0fb91a465c64d2b61.png",
     "index.html": "/my-port/index.html",
-    "main.b4f08088.css.map": "/my-port/static/css/main.b4f08088.css.map",
-    "main.8b325321.js.map": "/my-port/static/js/main.8b325321.js.map",
+    "main.92a4da1f.css.map": "/my-port/static/css/main.92a4da1f.css.map",
+    "main.dd900a32.js.map": "/my-port/static/js/main.dd900a32.js.map",
     "787.68dbee1e.chunk.js.map": "/my-port/static/js/787.68dbee1e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4f08088.css",
-    "static/js/main.8b325321.js"
+    "static/css/main.92a4da1f.css",
+    "static/js/main.dd900a32.js"
   ]
 }
