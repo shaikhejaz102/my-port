@@ -4,7 +4,8 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 
 //video 
-import video from "./pexels-google2.mp4"
+// import video from "./Logo/pexels-google1.mp4"
+// import video from "./pexels-google1.mp4"
 import img from "./smal/contact-california.jpg"
 import Footer from './Footer';
 // import img1 from "./smal/contact-new-york.jpg"
@@ -87,7 +88,7 @@ function Simple() {
                 <div className="contact-video col-lg-6">
                     <div className="sticky-top overflow-hidden-y" jstcache="0">
                         <video className='smalVideo' autoPlay loop muted playsInline >
-                            <source src={video} type='video/mp4' />
+                            <source src="./Logo/pexels-google1.mp4" type='video/mp4' />
                         </video>
                     </div>
                 </div>

@@ -33,7 +33,7 @@ function card(props) {
     function Resume(value) {
         // console.log("Resume has to be download");
         if (value) {
-            window.open("https://drive.google.com/file/d/18qFxeQSppTsJMo-63MtZ3EEILl502Nko/view?usp=drivesdk", '_target');
+            window.open("https://drive.google.com/file/d/1rKOhfudElHAFCg4FNr8PsjUsX4PuKMvk/view?usp=drivesdk", '_target');
         }
         else {
             console.log(`You have'nt select!`);

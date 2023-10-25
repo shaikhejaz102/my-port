@@ -3360,7 +3360,10 @@ img {
     }
 
     .card-main1 {
-        width: 75vw !important;
+        /* width: 75vw !important; */
+        width: 92vw !important;
+        margin-right: 0rem!important;
+        margin-left: 0rem!important;
     }
 
     .min-card {
@@ -3505,6 +3508,10 @@ img {
         transform: none;
         width: 27% !important;
         background: transparent;
+    }
+
+    .rounded-circle{
+        width: 7vw !important;
     }
 
     /*Services section pages*/

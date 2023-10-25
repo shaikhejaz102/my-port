@@ -36,7 +36,7 @@ import spire from "./Logo/Spire.mp4"
 //globe
 // import JavaScript from './Globe/JavaScript'
 // import * as THREE from "three";
-import globeVideo from "./videoGlobe.mp4"
+import globeVideo from "./Logo/videoGlobe.mp4"
 
 //swiper
 import 'swiper/css';
@@ -63,8 +63,6 @@ import ScrollTrigger from 'react-scroll-trigger';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
-//framer motion 
-import { easeIn, motion } from 'framer-motion'
 
 
 const Home1 = (props) => {
@@ -94,12 +92,12 @@ const Home1 = (props) => {
   function Linked(value1) {
     // console.log("hello");
     if (value1) {
-        window.open("https://www.linkedin.com/in/shaikh-ejaz-72b2b6247", "_target");
+      window.open("https://www.linkedin.com/in/shaikh-ejaz-72b2b6247", "_target");
     }
     else {
-        console.log("Sorry to Server facing Some issue!");
+      console.log("Sorry to Server facing Some issue!");
     }
-}
+  }
 
 
   //framer motion
@@ -249,7 +247,7 @@ const Home1 = (props) => {
 
           <div className='EjazPara'>
             <div className='d-flex align-items-center'>
-              <a onClick={Linked} style={{cursor:'pointer'}}><img className='Ejaz' src={image3} alt="" /></a>
+              <a onClick={Linked} style={{ cursor: 'pointer' }}><img className='Ejaz' src={image3} alt="" /></a>
               <h3 style={{ fontWeight: 'bolder', fontFamily: 'system-ui' }}>2023+</h3>
             </div>
             <span style={{ fontWeight: 'bolder', fontSize: '1.2' }}>Active Frontend Developer</span>
@@ -260,54 +258,54 @@ const Home1 = (props) => {
           </video>
 
           <div className='backgroundCard'>
-            <div data-aos="fade-up"  data-aos-delay="1000" data-aos-easing="ease"  data-aos-once="false">
+            <div data-aos="fade-up" data-aos-delay="1000" data-aos-easing="ease" data-aos-once="false">
               <div className='card1'>
-              <a href="https://www.fluencerdigital.com" style={{color:'#fff'}}>
-                <div className="icon">
-                  <i className="fa-regular fa-paper-plane  cardIcon"></i>
-                  <i className="fa-regular fa-comment-dots cardIcon"></i>
-                </div>
-                <h4>Realtime</h4>
-                <h4>Collaboration</h4>
-                <hr style={{ border: '4px dotted' }} />
-                <span>Work with your team in real-time and set individual permissions.</span></a>
+                <a href="https://www.fluencerdigital.com" style={{ color: '#fff' }}>
+                  <div className="icon">
+                    <i className="fa-regular fa-paper-plane  cardIcon"></i>
+                    <i className="fa-regular fa-comment-dots cardIcon"></i>
+                  </div>
+                  <h4>Realtime</h4>
+                  <h4>Collaboration</h4>
+                  <hr style={{ border: '4px dotted' }} />
+                  <span>Work with your team in real-time and set individual permissions.</span></a>
               </div>
             </div>
-            <div data-aos="fade-up"  data-aos-delay="1500" data-aos-easing="ease"  data-aos-once="false">
+            <div data-aos="fade-up" data-aos-delay="1500" data-aos-easing="ease" data-aos-once="false">
               <div className='card1'>
-                <a href="https://shaikhejaz102.github.io/my-app/" style={{color:'#fff'}}>
-                <div className="icon">
-                  <i class="fa-regular fa-square-plus cardIcon"></i>
-                </div>
-                <h4>Text</h4>
-                <h4>Generator</h4>
-                <hr style={{ border: '4px dotted' }} />
-                <span>Generate placeholders texts for your interfaces.</span></a>
+                <a href="https://shaikhejaz102.github.io/my-app/" style={{ color: '#fff' }}>
+                  <div className="icon">
+                    <i class="fa-regular fa-square-plus cardIcon"></i>
+                  </div>
+                  <h4>Text</h4>
+                  <h4>Generator</h4>
+                  <hr style={{ border: '4px dotted' }} />
+                  <span>Generate placeholders texts for your interfaces.</span></a>
               </div>
             </div>
-            <div data-aos="fade-up"  data-aos-delay="2000" data-aos-easing="ease" data-aos-once="false">
+            <div data-aos="fade-up" data-aos-delay="2000" data-aos-easing="ease" data-aos-once="false">
               <div className='card1'>
-              <a href="https://shaikhejaz102.github.io/Microsoft/" style={{color:'#fff'}}>
-                <div className="icon">
-                  <i class="fa fa-bolt cardIcon"></i>
-                  <i class="fa-regular fa-bookmark cardIcon"></i>
-                </div>
-                <h4>Templates</h4>
-                <h4>Library</h4>
-                <hr style={{ border: '4px dotted' }} />
-                <span>A repository of scenes, templates, and objects ready to use.</span></a>
+                <a href="https://shaikhejaz102.github.io/Microsoft/" style={{ color: '#fff' }}>
+                  <div className="icon">
+                    <i class="fa fa-bolt cardIcon"></i>
+                    <i class="fa-regular fa-bookmark cardIcon"></i>
+                  </div>
+                  <h4>Templates</h4>
+                  <h4>Library</h4>
+                  <hr style={{ border: '4px dotted' }} />
+                  <span>A repository of scenes, templates, and objects ready to use.</span></a>
               </div>
             </div>
-            <div  data-aos="fade-up" data-aos-delay="2500" data-aos-easing="ease" data-aos-once="false">
+            <div data-aos="fade-up" data-aos-delay="2500" data-aos-easing="ease" data-aos-once="false">
               <div className='card1'>
-              <a href="https://shaikhejaz102.github.io/portfolio2/" style={{color:'#fff'}}>
-                <div className="icon">
-                  <i class="fa-regular fa-images cardIcon"></i>
-                </div>
-                <h4>Websites</h4>
-                <h4>Based</h4>
-                <hr style={{ border: '4px dotted' }} />
-                <span>instantly create user interfaces for contacts list, testimonials, etc.</span></a>
+                <a href="https://shaikhejaz102.github.io/portfolio2/" style={{ color: '#fff' }}>
+                  <div className="icon">
+                    <i class="fa-regular fa-images cardIcon"></i>
+                  </div>
+                  <h4>Websites</h4>
+                  <h4>Based</h4>
+                  <hr style={{ border: '4px dotted' }} />
+                  <span>instantly create user interfaces for contacts list, testimonials, etc.</span></a>
               </div>
             </div>
           </div>
@@ -383,7 +381,7 @@ const Home1 = (props) => {
               <img className='mobile1' style={{ width: '230px', borderRadius: '40px' }} src={mobile1} alt="" />
             </div>
           </div>
-          <div className="container d-flex"  data-aos="fade-up" data-aos-delay="120" data-aos-easing="ease" data-aos-once="false">
+          <div className="container d-flex" data-aos="fade-up" data-aos-delay="120" data-aos-easing="ease" data-aos-once="false">
             <div>
               <img className='banner' src={carton} alt="" />
             </div>
