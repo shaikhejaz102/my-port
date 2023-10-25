@@ -3373,7 +3373,10 @@ img {
     }
 
     .card-main2 {
-        width: 75vw !important;
+        /* width: 75vw !important; */
+        width: 92vw !important;
+        margin-right: 0rem!important;
+        margin-left: 0rem!important;
     }
 
     .min-card2 {
@@ -3388,15 +3391,21 @@ img {
     }
 
     .card-main3 {
-        width: 75vw !important;
+        /* width: 75vw !important; */
+        width: 92vw !important;
+        margin-right: 0rem!important;
+        margin-left: 0rem!important;
     }
 
     .min-card3 {
-        width: 75vw !important;
+        width: 76vw !important;
     }
 
     .card-main4 {
-        width: 75vw !important;
+        /* width: 75vw !important; */
+        width: 92vw !important;
+        margin-right: 0rem!important;
+        margin-left: 0rem!important;
     }
 
     .min-card4 {
