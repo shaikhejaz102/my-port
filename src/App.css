@@ -337,7 +337,8 @@ body {
     transition: translate 250ms ease-in-out;
     --value: min(var(--scroll), 30) * 40 / 40;
     height: calc(40vh - 0.9vh * var(--value));
-    transform: translateY(calc(0 + 14vh * var(--value)));
+    /* transform: translateY(calc(0 + 14vh * var(--value))); */
+    transform: translateY(calc(0 + 0vh * var(--value)));
 }
 
 /* .myname > .home-h1{
@@ -2132,7 +2133,8 @@ img {
     .home-h1 {
         --value: min(var(--scroll), 30) * 40 / 40;
         height: calc(36vh - 0.9vh * var(--value)) !important;
-        transform: translateY(calc(0 + 14vh * var(--value)));
+        /* transform: translateY(calc(0 + 14vh * var(--value))); */
+        transform: translateY(calc(0 + 0vh * var(--value)));
     }
 
     .myname {
@@ -2170,7 +2172,8 @@ img {
     .home-h1 {
         --value: min(var(--scroll), 30) * 40 / 40;
         height: calc(32vh - 0.8vh * var(--value)) !important;
-        transform: translateY(calc(0 + 14vh * var(--value)));
+        /* transform: translateY(calc(0 + 14vh * var(--value))); */
+        transform: translateY(calc(0 + 0vh * var(--value)));
     }
 
     .myname {
@@ -2218,7 +2221,8 @@ img {
     .home-h1 {
         --value: min(var(--scroll), 30) * 40 / 40;
         height: calc(30vh - 0.7vh * var(--value)) !important;
-        transform: translateY(calc(0 + 14vh * var(--value)));
+        /* transform: translateY(calc(0 + 14vh * var(--value))); */
+        transform: translateY(calc(0 + 0vh * var(--value)));
     }
 
     .myname {
@@ -2390,7 +2394,8 @@ img {
     .home-h1 {
         --value: min(var(--scroll), 30) * 40 / 40;
         height: calc(25vh - 0.5vh * var(--value)) !important;
-        transform: translateY(calc(0 + 14vh * var(--value)));
+        /* transform: translateY(calc(0 + 14vh * var(--value))); */
+        transform: translateY(calc(0 + 0vh * var(--value)));
     }
 
     .myname {
@@ -2594,7 +2599,8 @@ img {
     .home-h1 {
         --value: min(var(--scroll), 30) * 40 / 40;
         height: calc(20vh - 0.35vh * var(--value)) !important;
-        transform: translateY(calc(0 + 14vh * var(--value)));
+        /* transform: translateY(calc(0 + 14vh * var(--value))); */
+        transform: translateY(calc(0 + 0vh * var(--value)));
     }
 
     .myname {
@@ -3218,7 +3224,8 @@ img {
     .home-h1 {
         --value: min(var(--scroll), 30) * 40 / 40;
         height: calc(10vh - 0.06vh * var(--value)) !important;
-        transform: translateY(calc(0 + 14vh * var(--value)));
+        /* transform: translateY(calc(0 + 14vh * var(--value))); */
+        transform: translateY(calc(0 + 0vh * var(--value)));
     }
 
     .myname {
