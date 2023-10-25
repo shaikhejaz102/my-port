@@ -1,0 +1,133 @@
+{
+    "type": "Map",
+    "maps": [
+        {
+            "text":"IND",
+            "size": 1.0,
+            "country": "india",
+            "city": "Chennai", 
+            "lat":"13.089869",
+            "lng": "80.245901"
+        },
+          {
+            "text":"UAE",
+            "size": 1.0,
+            "country": "United Arab Emirates",
+            "city": "Dubai", 
+            "lat":"23.214066",
+            "lng": "53.195262"
+        },
+        {
+            "text": "USA",
+            "size": "1.0",
+            "city": "New York",
+            "lat": "40.7143528",
+            "lng":"-74.0059731"
+        },
+        {
+            "text": "USA",
+            "size": "1.0",
+            "city": "Boston",
+            "lat": "42.27220339",
+            "lng":"-71.04638672"
+        },
+        {
+            "text": "USA",
+            "size": "1.0",
+            "city": "Boston",
+            "lat": "42.27220339",
+            "lng":"-71.04638672"
+        },
+        {
+            "text": "USA",
+            "size": "1.0",
+            "city": "Los Angeles",
+            "lat": "33.38565598",
+            "lng":"-118.37109375"
+        },
+        {
+            "text": "USA",
+            "size": "1.0",
+            "city": "Los Angeles",
+            "lat": "33.38565598",
+            "lng":"-118.37109375"
+        },
+        {
+            "text": "Brasil",
+            "size": "1.0",
+            "city": "Brasil",
+            "lat": "-14.55502805",
+            "lng":"-48.65624999"
+        },
+        {
+            "text": "South Africa",
+            "size": "1.0",
+            "city": "Afirca",
+            "lat": "-29.11348365",
+            "lng":"24.50390572"
+        },
+        {
+            "text": "South Africa",
+            "size": "1.0",
+            "city": "Afirca",
+            "lat": "-29.11348365",
+            "lng":"24.50390572"
+        },
+        {
+            "text": "Turkiye",
+            "size": "1.0",
+            "city": "Turkiye",
+            "lat": "39.07922614",
+            "lng":"34.06640706"
+        },
+        {
+            "text": "Turkiye",
+            "size": "1.0",
+            "city": "Turkiye",
+            "lat": "39.07922614",
+            "lng":"34.06640706"
+        },
+        {
+            "text": "IND",
+            "size": "1.0",
+            "city": "Mumbai",
+            "lat": "18.26160874",
+            "lng":"74.03906492"
+        },
+        {
+            "text": "Turkiye",
+            "size": "1.0",
+            "city": "Istambul",
+            "lat": "41.0131187",
+            "lng":"29.07421661"
+        },
+        {
+            "text": "Chaina",
+            "size": "1.0",
+            "city": "chaina",
+            "lat": "36.79159972",
+            "lng":"99.68554554"
+        },
+        {
+            "text": "Chaina",
+            "size": "1.0",
+            "city": "chaina",
+            "lat": "36.79159972",
+            "lng":"99.68554554"
+        },
+        {
+            "text": "UAE",
+            "size": "1.0",
+            "city": "Madina",
+            "lat": "24.45172073",
+            "lng":"39.56835985"
+        },
+        {
+            "text": "UAE",
+            "size": "1.0",
+            "city": "Makha",
+            "lat": "21.36009538",
+            "lng":"39.81005873"
+        }
+    ]
+}
