@@ -4,7 +4,8 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 
 //video 
-import video from "./Logo/pexels-google2.mp4"
+// import video from "./Logo/pexels-google2.mp4"
+import video from "./Logo/video-compress/pexels-google2.mp4"
 // import video from "./pexels-google1.mp4"
 import img from "./smal/contact-california.jpg"
 import Footer from './Footer';

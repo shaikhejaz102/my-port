@@ -13,14 +13,22 @@ import image4 from "./Frontend/twilio-main-1.jpg"
 import image5 from './Frontend/Maersk_.jpg'
 
 //videos
-import vid from "./Logo/Script.mp4"
-import vid1 from "./Logo/Script1.mp4"
-import vid2 from "./Logo/Script2.mp4"
-import vid3 from "./Logo/Script3.mp4"
-import vid4 from "./Logo/Script4.mp4"
-import vid5 from "./Logo/Script5.mp4"
-import vid6 from "./Logo/Script6.mp4"
-import vid7 from "./Logo/Script7.mp4"
+// import vid from "./Logo/Script.mp4"
+// import vid1 from "./Logo/Script1.mp4"
+// import vid2 from "./Logo/Script2.mp4"
+// import vid3 from "./Logo/Script3.mp4"
+// import vid4 from "./Logo/Script4.mp4"
+// import vid5 from "./Logo/Script5.mp4"
+// import vid6 from "./Logo/Script6.mp4"
+// import vid7 from "./Logo/Script7.mp4"
+import vid from "./Logo/video-compress/Script.mp4"
+import vid1 from "./Logo/video-compress/Script1.mp4"
+import vid2 from "./Logo/video-compress/Script2.mp4"
+import vid3 from "./Logo/video-compress/Script3.mp4"
+import vid4 from "./Logo/video-compress/Script4.mp4"
+import vid5 from "./Logo/video-compress/Script5.mp4"
+import vid6 from "./Logo/video-compress/Script6.mp4"
+import vid7 from "./Logo/video-compress/Script7.mp4"
 
 import mobile from "./Frontend/mobile part1.jpg"
 import mobile1 from "./Frontend/mobile part2.jpg"
@@ -28,15 +36,15 @@ import giphy from "./Frontend/giphy.gif"
 import giphy1 from "./Frontend/giphy (1).gif"
 import carton from "./Frontend/team-mobile-web.avif"
 
-
 //animate Videos
-import spire from "./Logo/Spire.mp4"
+// import spire from "./Logo/Spire.mp4"
+import spire from "./Logo/video-compress/Spire.mp4"
 
 
 //globe
 // import JavaScript from './Globe/JavaScript'
 // import * as THREE from "three";
-import globeVideo from "./Logo/videoGlobe.mp4"
+import globeVideo from "./Logo/video-compress/videoGlobe.mp4"
 
 //swiper
 import 'swiper/css';
